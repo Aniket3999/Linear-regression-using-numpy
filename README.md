@@ -8,7 +8,7 @@ It's a great resource for anyone looking to understand the mechanics behind one 
 
 The model successfully learns the parameters to fit a quadratic curve to synthetically generated data. The final output visualizes the learned model against the original data points.
 
-![Polynomial Regression Fit](https://i.imgur.com/gKzN5j7.png)
+![Polynomial Regression Fit](images/polynomial_model_predictions_plot.png)
 *(You can generate this plot by running the final cell in the notebook.)*
 
 ---
